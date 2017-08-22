@@ -1,0 +1,3 @@
+git config --global user.name "josbruyn"
+git config --global user.email "josbruyn@telenet.be"
+cd /home/jos4/sites/jos-site
